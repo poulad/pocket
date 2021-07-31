@@ -1,2 +1,3 @@
-# pocket
+# Pocket
+
 Budget tracking app
